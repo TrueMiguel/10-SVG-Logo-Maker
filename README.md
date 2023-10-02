@@ -59,6 +59,8 @@ Live site: N/A since this is run in terminal
 
 Github: https://github.com/TrueMiguel/10-SVG-Logo-Maker
 
+Walkthrough video: https://drive.google.com/file/d/1Y0WADynIgUzl8sp9CR0YG1jb59g4jRxm/view 
+
 <!-- screen shot example of project -->
 <!-- ![Page on start up](assets/Images/screen-shot1.JPG) -->
 
