@@ -27,8 +27,8 @@ async function logo() {
     if (shape == 'circle') {
         logoContent = shapes.circle(text, textColor, shapeColor)
 
-    } else if  ( shape == 'rectangle') {
-        logoContent = shapes.rectangle(text, textColor, shapeColor)
+    } else if  ( shape == 'square') {
+        logoContent = shapes.square(text, textColor, shapeColor)
 
     } else {
         logoContent = shapes.triangle(text, textColor, shapeColor)
